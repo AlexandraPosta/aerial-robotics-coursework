@@ -1,4 +1,4 @@
-# Aerial Robotics Coursework
+# Drone Manipulation
 Supporting scripts to estimate the performance of a heavy weight drone capable of performing fire fighting. Part of a University module.
 
 Files:
